@@ -1,0 +1,1 @@
+[{"title":"Tv","price":1024,"thumbnail":"https://www.lg.com/ar/images/televisores/md05781190/gallery/medium07_1.jpg","id":1},{"title":"Smartphone","price":180,"thumbnail":"https://www.hisense.es/wp-content/uploads/2019/06/H30-ICE-BLUE-2.jpg","id":2},{"title":"Laptop","price":260,"thumbnail":"https://icdn.dtcn.com/image/digitaltrends_es/185-xps-13-laptop-resized-2.jpg","id":3}]
